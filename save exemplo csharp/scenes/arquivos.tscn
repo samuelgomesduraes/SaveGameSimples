@@ -1,0 +1,46 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://scripts/arquivos.cs" type="Script" id=1]
+
+[node name="arquivos" type="Node2D"]
+script = ExtResource( 1 )
+
+[node name="quantidade" type="Label" parent="."]
+margin_left = 394.0
+margin_top = 207.0
+margin_right = 434.0
+margin_bottom = 221.0
+text = "dfdfdf"
+
+[node name="salvar" type="Button" parent="."]
+margin_left = 387.0
+margin_top = 226.0
+margin_right = 436.0
+margin_bottom = 246.0
+text = "salvar"
+
+[node name="carregar" type="Button" parent="."]
+margin_left = 384.0
+margin_top = 272.0
+margin_right = 447.0
+margin_bottom = 292.0
+text = "carregar"
+
+[node name="aumentar" type="Button" parent="."]
+margin_left = 568.0
+margin_top = 222.0
+margin_right = 641.0
+margin_bottom = 242.0
+text = "aumentar"
+
+[node name="diminuir" type="Button" parent="."]
+margin_left = 571.0
+margin_top = 268.0
+margin_right = 637.0
+margin_bottom = 288.0
+text = "diminuir"
+
+[connection signal="pressed" from="salvar" to="." method="_on_salvar_pressed"]
+[connection signal="pressed" from="carregar" to="." method="_on_carregar_pressed"]
+[connection signal="pressed" from="aumentar" to="." method="_on_aumentar_pressed"]
+[connection signal="pressed" from="diminuir" to="." method="_on_diminuir_pressed"]

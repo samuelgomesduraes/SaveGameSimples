@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mudy3aKTxTdZD1RfWYd21tNrEW3N0wsKLqlonQ7zL2TgHrKmwjf4lmc0j7WWk7rsselXyz0DZjcIUdUK+bahLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\samuel\\Documents\\ARENA 8\\C#SHARP\\save exemplo csharp\\save exemplo csharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\samuel\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\samuel\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

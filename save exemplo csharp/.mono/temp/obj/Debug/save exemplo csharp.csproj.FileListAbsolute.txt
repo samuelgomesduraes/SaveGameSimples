@@ -1,0 +1,9 @@
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\save exemplo csharp\.mono\temp\bin\Debug\save exemplo csharp.dll
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\save exemplo csharp\.mono\temp\bin\Debug\save exemplo csharp.pdb
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\save exemplo csharp\.mono\temp\obj\Debug\save exemplo csharp.csproj.AssemblyReference.cache
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\save exemplo csharp\.mono\temp\obj\Debug\save exemplo csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\save exemplo csharp\.mono\temp\obj\Debug\save exemplo csharp.AssemblyInfoInputs.cache
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\save exemplo csharp\.mono\temp\obj\Debug\save exemplo csharp.AssemblyInfo.cs
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\save exemplo csharp\.mono\temp\obj\Debug\save exemplo csharp.csproj.CoreCompileInputs.cache
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\save exemplo csharp\.mono\temp\obj\Debug\save exemplo csharp.dll
+C:\Users\samuel\Documents\ARENA 8\C#SHARP\save exemplo csharp\.mono\temp\obj\Debug\save exemplo csharp.pdb
